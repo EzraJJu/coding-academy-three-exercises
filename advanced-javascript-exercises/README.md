@@ -1,4 +1,4 @@
-# bootcamp-week0-exercises
+# coding-level-iii-exercises
 
 Please have a look through these exercises after completing the free lessons on https://learnjavascript.online/.
 
