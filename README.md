@@ -1,3 +1,4 @@
-CODING LEVEL III ACADEMY RESPOSITORIES
+The Academies by Harvard Student Agencies
+Coding Level III Academy
 
-STUDENTS WILL NEED ACCESS TO THE ADVANCED JAVASCRIPT EXERCISES REPOSITORY
+Students will only need access to the advanced-javascript-exercises repository
