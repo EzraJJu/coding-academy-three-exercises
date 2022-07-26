@@ -30,7 +30,7 @@ while(i>0)
 // if the two arrays are of unequal length
 // Example: zip([1, 2, 3], [5, 3, 1]) === [[1, 5], [2, 3], [3, 1]]
 const zip = (arr1, arr2) => {
-  arr1.length === arr2.length ? arr1.map((el i) => [el, arr2[i]]) : -1
+  arr1.length === arr2.length ? arr1.map((el=i) => [el, arr2[i]]) : -1
 }
 
 // TODO - Write a function which does the opposite of `zip()`
