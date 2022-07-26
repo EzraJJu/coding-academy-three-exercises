@@ -11,9 +11,16 @@
 
 // TODO - write a function which reverses the string
 const reverse = (str) => {
-  let array = str.split('')
-  let revArray = array.reverse() 
-  return revArray.join('') 
+  //convert to an array since strings are immutable
+  const split = str.split('')
+  
+  // ["H", "e", "l", "l", "o" ]
+  const reveresed = split.reverse()
+
+  // ["o", "l", "l", "e", "H"]
+  return reveresed.join('')
+
+  // could also compress all into return str.split('').reverse(0.join('')
 }
 
 // TODO - write a function which returns the factorial of a positive integer
